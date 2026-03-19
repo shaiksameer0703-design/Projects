@@ -19,7 +19,7 @@ This repository contains projects focused on robotics, autonomous systems, human
 
 ## Major Projects
 
-[VR Aented Teleoperated Robots for Surgeries] (#VR Augmented Teleoperated Robots for Surgeries)
+### VR Augmented Teleoperated Robots for Surgeries 
 
 A teleoperation system that integrates robotics with virtual reality to assist surgeons in performing precise remote operations. The system provides enhanced visualization and control through VR interfaces.
 
