@@ -63,13 +63,13 @@ These projects demonstrate fundamental robotics principles including sensor feed
 
 ## Author
 
-**Shaik Sameer **
+**Shaik Sameer Salahuddin**
 
-Robotics | Autonomous Systems | Intelligent Robotics
+Robotics | Automotive Systems | Intelligent Robotics
 
 ---
 
 ## Contact
 
-GitHub: https://github.com/yourusername
-LinkedIn: Add your LinkedIn
+GitHub: 
+LinkedIn: www.linkedin.com/in/shaiksameer07
