@@ -8,12 +8,12 @@ This repository contains projects focused on robotics, autonomous systems, human
 
 ## Technical Areas
 
-• Robotics & Autonomous Systems: ROS 2, robot motion, navigation.
-•Mechatronics & Control: Sensors, actuators, and control systems.
-• Embedded Systems & IoT: Arduino, Raspberry pi, ESP32, LoRa, GPS
-• UAV Systems: Drone building, Pixhawk/APM setup, mission planning.
-• Simulation & Modeling: MATLAB, Simulink, Unity.
-• Programming & Design: Python, C++, Fusion 360, SolidWorks, PCB design.
+-• Robotics & Autonomous Systems: ROS 2, robot motion, navigation.
+-• Mechatronics & Control: Sensors, actuators, and control systems.
+-• Embedded Systems & IoT: Arduino, Raspberry pi, ESP32, LoRa, GPS
+-• UAV Systems: Drone building, Pixhawk/APM setup, mission planning.
+-• Simulation & Modeling: MATLAB, Simulink, Unity.
+-• Programming & Design: Python, C++, Fusion 360, SolidWorks, PCB design.
 
 
 ---
