@@ -19,7 +19,7 @@ This repository contains projects focused on robotics, autonomous systems, human
 
 ## Major Projects
 
-### VR Augmented Teleoperated Robots for Surgeries (#VR Augmented Teleoperated Robot for Surgeries)
+[VR Aented Teleoperated Robots for Surgeries] (#VR Augmented Teleoperated Robots for Surgeries)
 
 A teleoperation system that integrates robotics with virtual reality to assist surgeons in performing precise remote operations. The system provides enhanced visualization and control through VR interfaces.
 
@@ -63,13 +63,13 @@ These projects demonstrate fundamental robotics principles including sensor feed
 
 ## Author
 
-**Shaik Sameer Salahuddin**
+**Shaik Sameer **
 
-Robotics | Automotive Systems | Intelligent Robotics
+Robotics | Autonomous Systems | Intelligent Robotics
 
 ---
 
 ## Contact
 
-GitHub: https://github.com/shaiksameer0703-design 
-LinkedIn: www.linkedin.com/in/shaiksameer07
+GitHub: https://github.com/yourusername
+LinkedIn: Add your LinkedIn
